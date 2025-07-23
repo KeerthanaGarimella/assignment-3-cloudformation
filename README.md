@@ -27,7 +27,7 @@ This assignment involves deploying the following infrastructure using AWS CloudF
 
 ## 🖼️ Screenshots
 
-- ✅ VPC, Subnets, and Internet Gateway – Captured from AWS VPC Dashboard  
+- ✅ VPC, Subnets, and Internet Gateway – Captured from AWS VPC Dashboard
 - ✅ Route Table creation and associations  
 - ✅ Security Group for EC2 and RDS allowing necessary access (SSH and MySQL)  
 - ✅ Deployed EC2 instance with public IP  
